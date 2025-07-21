@@ -32,7 +32,7 @@ I’m passionate about designing **scalable**, **secure**, and **automated** clo
 
 | Degree                        | Institution                                        | Year        | Result     |
 |------------------------------|----------------------------------------------------|-------------|------------|
-| B.E Mechanical Engineering   | Karpagam Institute of Technology, Coimbatore       | 2020–2024   | 8.02 CGPA  |
+| B.E Mechanical Engineering   | Karpagam Institute of Technology, Coimbatore       | 2020–2024   | 7.61 CGPA  |
 | HSC                          | URC Palaniammal Matric Hr. Sec. School, Erode      | 2019–2020   | 67%        |
 | SSLC                         | URC Palaniammal Matric Hr. Sec. School, Erode      | 2017–2018   | 82%        |
 
