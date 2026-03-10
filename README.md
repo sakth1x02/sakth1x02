@@ -1,145 +1,138 @@
-# 👋 Hi, I'm Sakthibalan M (@sakth1x02)
+# Sakthibalan M
 
-☁️ AWS Certified Cloud Engineer | ⚙️ DevOps & Automation Enthusiast  
-📍 Chennai, India  
-📧 sakthisumathi2002@gmail.com | 📞 +91-8610336819  
+AWS Certified Cloud Engineer | DevOps and Automation Enthusiast  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/sakthibalan-devops  
-💻 **GitHub:** https://github.com/sakth1x02
+Chennai, India  
+Email: sakthisumathi2002@gmail.com  
+Phone: +91-8610336819  
 
----
-
-# 🚀 About Me
-
-AWS Certified Cloud Engineer with hands-on experience in building scalable cloud infrastructure, CI/CD pipelines, and automation using **AWS, Terraform, Docker, Jenkins, and Ansible**.
-
-I enjoy designing reliable cloud systems, optimizing infrastructure costs, and automating deployment workflows.
-
-Currently working on improving DevOps practices, infrastructure automation, and cloud architecture.
+LinkedIn: https://www.linkedin.com/in/sakthibalan-devops  
+GitHub: https://github.com/sakth1x02  
 
 ---
 
-# 🛠️ Tech Stack
+## About Me
 
-### ☁️ Cloud
+AWS Certified Cloud Engineer with hands-on experience in building and managing scalable cloud infrastructure, CI/CD pipelines, and automation workflows using AWS, Terraform, Docker, Jenkins, and Ansible.
+
+Experienced in deploying applications, optimizing cloud infrastructure costs, and designing reliable cloud architectures. Interested in DevOps practices, infrastructure automation, and cloud-native technologies.
+
+---
+
+## Technical Skills
+
+### Cloud Platforms
 AWS (EC2, S3, RDS, ECS, Fargate, IAM, VPC, Route53, CloudFront, SNS, SSM)
 
-### ⚙️ DevOps & CI/CD
+### DevOps and CI/CD
 Jenkins, GitLab CI, GitHub Actions
 
-### 🏗 Infrastructure as Code
+### Infrastructure as Code
 Terraform, Ansible
 
-### 📦 Containers
+### Containers
 Docker
 
-### 💻 Operating Systems
+### Operating Systems
 Linux (Ubuntu, Amazon Linux)
 
-### 🌐 Web Servers
+### Web Servers
 NGINX
 
-### 🧠 Version Control
+### Version Control
 Git, GitHub
 
-### 🗄 Databases
+### Databases
 MySQL, PostgreSQL
 
-### 📊 SEO & Marketing Tools
+### SEO and Marketing Tools
 SEMrush, Google Analytics, Google Search Console, WordPress, GravityWrite, Canva
 
 ---
 
-# 💼 Professional Experience
+## Professional Experience
 
-## Cloud Support Engineer | Digital Marketing Executive  
-**Hadstechnovations**  
-📅 Aug 2025 – Present
+### Cloud Support Engineer | Digital Marketing Executive  
+Hadstechnovations  
+Aug 2025 – Present
 
-- Built and maintained CI/CD pipelines using **Jenkins, Ansible, and GitLab CI**.
-- Automated operational tasks using **Bash scripts** to improve system reliability.
-- Performed **AWS infrastructure cost optimization** by analyzing usage patterns.
-- Assisted in **two large-scale migrations** and independently completed **three infrastructure migrations**.
-- Drafted **SEO blog content and backlink strategies using SEMrush**.
-- Assisted in designing **solution architectures based on client requirements**.
-
----
-
-## Cloud Engineer (Internship)  
-**Nathan Dynamix**  
-📅 Aug 2024 – Jul 2025
-
-- Built AWS infrastructure using **EC2, S3, IAM, RDS, and VPC** with **Terraform**.
-- Deployed applications on **AWS EC2 with NGINX configuration**.
-- Designed and implemented a **3-tier AWS architecture** with load balancing.
-- Implemented **secure and cost-efficient cloud solutions**.
+- Designed and maintained CI/CD pipelines using Jenkins, Ansible, and GitLab CI.
+- Automated server monitoring and operational tasks using Bash scripting.
+- Performed AWS infrastructure cost optimization by analyzing resource usage.
+- Assisted in two large-scale migrations and independently completed three infrastructure migrations.
+- Drafted SEO blog content and backlink strategies using SEMrush.
+- Assisted in designing solution architectures based on client requirements and supported production releases.
 
 ---
 
-# 🔧 Projects
+### Cloud Engineer (Internship)  
+Nathan Dynamix  
+Aug 2024 – Jul 2025
 
-## ☁️ AWS 3-Tier Architecture Deployment
-
-- Built a scalable **3-tier cloud architecture on AWS**.
-- Configured **NGINX on EC2 for application hosting**.
-- Implemented **load balancing and secure networking using VPC**.
-- Automated infrastructure provisioning using **Terraform**.
-
----
-
-## ⚙️ CI/CD Pipeline Automation
-
-- Designed CI/CD pipelines using **GitHub Actions and Jenkins**.
-- Automated application deployment workflows.
-- Integrated containerized deployments using **Docker**.
+- Built AWS infrastructure using EC2, S3, IAM, RDS, and VPC with Terraform.
+- Deployed applications on AWS EC2 and configured NGINX for optimized hosting.
+- Designed and implemented a scalable 3-tier architecture with load balancing.
+- Implemented secure and cost-efficient cloud infrastructure solutions.
 
 ---
 
-# 🎓 Education
+## Projects
 
-**Bachelor of Engineering – Mechanical Engineering**  
+### AWS 3-Tier Architecture Deployment
+
+- Designed and implemented a scalable 3-tier architecture on AWS.
+- Configured NGINX web servers on EC2 instances.
+- Implemented load balancing and secure networking using VPC.
+- Automated infrastructure provisioning using Terraform.
+
+---
+
+### CI/CD Pipeline Automation
+
+- Designed automated CI/CD pipelines using GitHub Actions and Jenkins.
+- Implemented automated application deployment workflows.
+- Integrated containerized deployments using Docker.
+
+---
+
+## Education
+
+Bachelor of Engineering – Mechanical Engineering  
 Karpagam Institute of Technology, Coimbatore  
-📅 2020 – 2024  
-CGPA: **7.64 / 10**
+2020 – 2024  
+CGPA: 7.64 / 10
 
 ---
 
-# 📜 Certifications
+## Certifications
 
-🏅 **AWS Certified Solutions Architect – Associate**  
-Credential: https://www.credly.com/badges/3ca21e80-3d69-47ad-b855-d292a680c88d/public_url  
+AWS Certified Solutions Architect – Associate  
+https://www.credly.com/badges/3ca21e80-3d69-47ad-b855-d292a680c88d/public_url
 
-🎓 DevOps Certification – QTree Technologies (2024)  
+DevOps Certification – QTree Technologies (2024)
 
-🎓 NPTEL – Design Practice (2023)
+NPTEL – Design Practice (2023)
 
 ---
 
-# 🌐 Languages
+## Languages
 
 English – Professional  
 Tamil – Native
 
 ---
 
-# 💡 Interests
+## Interests
 
 DevOps Engineering  
 Cloud Infrastructure  
-Automation & CI/CD  
+Automation and CI/CD  
 Infrastructure as Code
 
 ---
 
-# ⚡ Fun Fact
+## Contact
 
-I enjoy automating infrastructure and optimizing cloud systems.  
-Coffee ☕ + automation scripts = productive day.
-
----
-
-# 📫 Connect With Me
-
-📧 Email: sakthisumathi2002@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sakthibalan-devops  
-💻 GitHub: https://github.com/sakth1x02
+Email: sakthisumathi2002@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sakthibalan-devops  
+GitHub: https://github.com/sakth1x02
