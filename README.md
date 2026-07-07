@@ -43,28 +43,18 @@ Experienced in application deployments, infrastructure cost optimization, and de
 
 ## Professional Experience
 
-### Cloud Support Engineer | Digital Marketing Executive  
-**Hadstechnovations**  
-Aug 2025 – Present
+### Cloud Support Engineer
+**Hadstechnovations**
+**Aug 2024 – Present**
 
-- Designed and maintained CI/CD pipelines using **Jenkins, Ansible, and GitLab CI**.
-- Automated server monitoring and operational tasks using **Bash scripting**.
-- Performed **AWS infrastructure cost optimization** by analyzing resource usage.
-- Assisted in **two large-scale migrations** and independently completed **three infrastructure migrations**.
-- Drafted **SEO blog content and backlink strategies using SEMrush**.
-- Assisted in designing **solution architectures based on client requirements** and supported production releases.
-
----
-
-### Cloud Engineer (Internship)  
-**Nathan Dynamix**  
-Aug 2024 – Jul 2025
-
-- Built AWS infrastructure using **EC2, S3, IAM, RDS, and VPC** with **Terraform**.
-- Deployed applications on **AWS EC2** and configured **NGINX** for optimized hosting.
-- Designed and implemented a **scalable 3-tier architecture with load balancing**.
-- Implemented **secure and cost-efficient cloud infrastructure solutions**.
-
+- Administered Linux-based servers by deploying applications, configuring NGINX, and performing routine system maintenance.
+- Designed and maintained CI/CD pipelines using **Jenkins, Ansible, and GitLab CI** to support automated application deployments.
+- Automated operational and administrative tasks using **Bash scripting**, improving deployment efficiency and reducing manual effort.
+- Monitored system health, analyzed application and server logs, and assisted in troubleshooting production issues.
+- Performed AWS infrastructure cost optimization by reviewing resource utilization and identifying optimization opportunities.
+- Assisted in **two large-scale infrastructure migrations** and independently completed **three server migration projects** with minimal downtime.
+- Collaborated with cross-functional teams during production deployments, incident resolution, and root cause analysis.
+- Documented deployment procedures, troubleshooting steps, and operational runbooks to improve knowledge sharing and support efficiency.
 ---
 
 ## Projects
